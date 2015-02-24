@@ -19,7 +19,7 @@ namespace STAROCK.DAL
         {
             string result = "";
 
-            List<DM_Test> list = new List<DM_Test>();
+            List<DM_Test> list = new List<DM_Test>();  //
 
             var connectionString = "mongodb://stormer:skyline008@www.w-jing.com:27017/Road92";
             var client = new MongoClient(connectionString);
