@@ -1,0 +1,14 @@
+/Users/stormer/Desktop/NancyEmptyProject/STAROCK.DAL/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Users/stormer/Desktop/NancyEmptyProject/STAROCK.DAL/bin/Debug/STAROCK.DAL.dll.mdb
+/Users/stormer/Desktop/NancyEmptyProject/STAROCK.DAL/bin/Debug/STAROCK.DAL.dll
+/Users/stormer/Desktop/NancyEmptyProject/STAROCK.DAL/obj/Debug/STAROCK.DAL.dll
+/Users/stormer/Desktop/NancyEmptyProject/STAROCK.DAL/obj/Debug/STAROCK.DAL.dll.mdb
+/Users/stormer/Desktop/NancyEmptyProject/STAROCK.DAL/bin/Debug/MongoDB.Bson.dll
+/Users/stormer/Desktop/NancyEmptyProject/STAROCK.DAL/bin/Debug/MongoDB.Driver.dll
+/Volumes/Star/Road92API/STAROCK.DAL/obj/Debug/.NETFramework,Version=v4.5.1.AssemblyAttribute.cs
+/Volumes/Star/Road92API/STAROCK.DAL/bin/Debug/STAROCK.DAL.dll.mdb
+/Volumes/Star/Road92API/STAROCK.DAL/bin/Debug/STAROCK.DAL.dll
+/Volumes/Star/Road92API/STAROCK.DAL/obj/Debug/STAROCK.DAL.dll
+/Volumes/Star/Road92API/STAROCK.DAL/obj/Debug/STAROCK.DAL.dll.mdb
+/Volumes/Star/Road92API/STAROCK.DAL/bin/Debug/MongoDB.Bson.dll
+/Volumes/Star/Road92API/STAROCK.DAL/bin/Debug/MongoDB.Driver.dll

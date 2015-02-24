@@ -1,0 +1,7 @@
+/Users/stormer/Desktop/API/API/obj/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
+/Users/stormer/Desktop/API/API/bin/API.dll.mdb
+/Users/stormer/Desktop/API/API/bin/API.dll
+/Users/stormer/Desktop/API/API/obj/Debug/API.dll
+/Users/stormer/Desktop/API/API/obj/Debug/API.dll.mdb
+/Users/stormer/Desktop/API/API/bin/Nancy.dll
+/Users/stormer/Desktop/API/API/bin/Nancy.Hosting.Aspnet.dll
